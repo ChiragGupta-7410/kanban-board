@@ -1,0 +1,15 @@
+.Board {
+  padding: 2vmax;
+  padding-top: 7vmax;
+  background-color: #eeeeee;
+  min-height: 100vmin;
+  box-sizing: border-box;
+}
+
+.dash-one {
+  display: flex;
+  flex-wrap: wrap;
+  overflow-x: auto;
+  justify-content: space-around;
+  gap: 2rem;
+}
